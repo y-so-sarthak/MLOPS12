@@ -1,0 +1,7 @@
+Customer_Id,Age_Group,Gender,Country,State,City,Loyalty_Category,First_Deposit_Amount,Win_Amount_L3,Win_Amount_L7,Bet_Qty_L3,Bet_Qty_L7,Bet_Amount_L3,Bet_Amount_L7,Days_Since_Last_Bet,Days_Since_Last_Win_Or_Bonus,Actual_Apd_Next7,Actual_Apd_Next28,Combo_GGR_L1,Combo_GGR_L7
+101156,Middle_age,F,UK,England,London,Platinum+,500,549.072,981.804,374,374,747.381,1180.113,1,0,0.127833333333333,,0,0
+101559,Middle_age,F,UK,England,London,Platinum+,500,549.072,981.804,374,374,747.381,1180.113,1,0,0.127833333333333,,0,0
+104197,Middle_age,F,Germany,Saarland,Saarbrucken,Platinum,0,642.54,642.54,406,406,1120.26,1120.26,1,0,0.0421393841166937,,0,0
+104197,Middle_age,F,Germany,Saarland,Saarbrucken,Platinum,0,0,150.04,0,0,0,312.94,0,0,0,0.0386111111111111,0,0
+100058,Middle_age,F,Germany,Saxony,Dresden,Silver,0,0,0,336,364,0,0,45,0,0.0454545454545455,0,0,0
+100058,Middle_age,F,Germany,Saxony,Dresden,Silver,0,68.976,68.976,371,371,232.084,232.084,52,0,0.0909090909090909,,0,0

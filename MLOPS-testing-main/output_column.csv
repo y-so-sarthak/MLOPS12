@@ -1,0 +1,7 @@
+Customer_Id,Country,State,City,bet_qty_overall,bet_amount_overall,win_amount_overall,win_qty_overall,ggr_overall
+101156,UK,England,London,374,1180.113,981.804,374,200
+101559,UK,England,London,374,1180.113,981.804,374,200
+104197,Germany,Saarland,Saarbrucken,406,1120.26,1642.54,406,1000
+104197,Germany,Saarland,Saarbrucken,0,312.94,150.04,0,150
+100058,Germany,Saxony,Dresden,364,232.084,68.976,0,68
+100058,Germany,Saxony,Dresden,371,232.084,68.976,0,70
